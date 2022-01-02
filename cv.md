@@ -1,6 +1,6 @@
 ## VIKTORIYA BALTSER
- *  Vik-tori8 #1044
- * wita.dance8@gmail.com
+ * Discord: Vik-tori8 #1044
+ * E-mail: wita.dance8@gmail.com
 
 # FrontEnd Developer
 ## About me
