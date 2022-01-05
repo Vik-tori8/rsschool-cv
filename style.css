@@ -11,12 +11,19 @@ nav > ul {
 }
 
 nav a {
-  padding: 0 20px;
+  padding: 0 10px;
   line-height: 50px; 
-  color: #055f11;
+  color: #078518;
+  font-weight: bolder;
   text-decoration: none;  
   transition: color 0.5s;
-  
+  text-transform: uppercase;
+} 
+
+nav a:hover {
+  color: blueviolet;
 }
 
-
+img {
+  width: 320px;
+}
