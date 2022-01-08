@@ -1,0 +1,29 @@
+body {
+  margin: 0 auto;
+  width: 50vw;
+  font-family: Roboto,Arial,sans-serif;
+}
+ 
+nav > ul {
+  list-style: none;
+  display: flex;
+  justify-content: end;
+}
+
+nav a {
+  padding: 0 10px;
+  line-height: 50px; 
+  color: #078518;
+  font-weight: bolder;
+  text-decoration: none;  
+  transition: color 0.5s;
+  text-transform: uppercase;
+} 
+
+nav a:hover {
+  color: blueviolet;
+}
+
+img {
+  width: 320px;
+}
